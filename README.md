@@ -1,2 +1,3 @@
 # lgbtq-policy
-Looking to LGBTQ policy
+
+Looking at LGBTQ policy from Velasco (2020)
